@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Vanes-git/JSp3_food#readme",
   "devDependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "webpack": "^5.36.0",
+    "webpack-cli": "^4.6.0"
   }
 }
